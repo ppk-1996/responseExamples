@@ -1,0 +1,29 @@
+[
+  {
+    "judgment_id": "cjs-dis-74",
+    "word_id": "cjs-dis-74",
+    "pdf_id": "cjs-dis-74",
+    "word_uploaded_date": "2020-08-23",
+    "pdf_uploaded_date": "2020-08-23",
+    "word_uploader_email": "admin@gmail.com",
+    "pdf_uploader_email": "admin@gmail.com"
+  },
+  {
+    "judgment_id": "cjs-dis-34",
+    "word_id": "cjs-dis-34",
+    "pdf_id": "",
+    "word_uploaded_date": "2020-08-23",
+    "pdf_uploaded_date": "",
+    "word_uploader_email": "admin@gmail.com",
+    "pdf_uploader_email": ""
+  },
+  {
+    "judgment_id": "",
+    "word_id": "cjs-dis-78",
+    "pdf_id": "cjs-dis-78",
+    "word_uploaded_date": "2020-08-23",
+    "pdf_uploaded_date": "2020-08-23",
+    "word_uploader_email": "admin@gmail.com",
+    "pdf_uploader_email": "admin@gmail.com"
+  }
+]
